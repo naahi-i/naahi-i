@@ -9,5 +9,5 @@
 ![img](img.jpg)
 
 <a href="">
-  <img width =60% src="metrics.plugin.isocalendar.svg" />
+  <img width =100% src="metrics.plugin.isocalendar.svg" />
 </a>
