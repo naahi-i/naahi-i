@@ -5,9 +5,13 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naahi-i&layout=compact&border_color=151b23&bg_color=00000000" />
 </a>
 
-
 ![img](img.jpg)
 
 <a href="">
+  <img width =100% src="https://github-readme-activity-graph.vercel.app/graph?username=naahi-i&theme=github-compact&hide_border=true" />
+</a>
+<a href="">
   <img width =100% src="metrics.plugin.isocalendar.svg" />
 </a>
+
+
