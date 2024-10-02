@@ -6,4 +6,4 @@
 </a>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naahi-i&theme=github-compact)
-![img](20240926_164607.jpg)
+![img](img.jpg)
