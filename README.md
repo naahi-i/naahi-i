@@ -6,9 +6,8 @@
 </a>
 
 <a href="">
-  <img height="100%" align="center" src="img.jpg" style="border: 2px solid #151b43;" />
+  <img height=100% align="center" src="img.jpg" />
 </a>
-
 
 <a href="">
   <img width =100% src="https://github-readme-activity-graph.vercel.app/graph?username=naahi-i&theme=github-compact&hide_border=true" />
