@@ -9,7 +9,7 @@
 <table>
 <div>
   <a href="">
-    <img height=100% align="center" src="ResizedImage_2024-10-19_08-34-31_2251.png" />
+    <img height=100% align="center" src="img.png" />
   </a>
 </div>
 </table>
