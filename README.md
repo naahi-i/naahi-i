@@ -24,7 +24,7 @@
 <table>
 <div>
   <a href="">
-    <img height=100% align="center" src="SCHALE.png" style="border-radius: 30px;" />
+    <img height=100% align="center" src="SCHALE.png"/>
   </a>
 </div>
 </table>
