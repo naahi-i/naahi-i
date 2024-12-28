@@ -21,4 +21,10 @@
   <img width =100% src="metrics.plugin.isocalendar.svg" />
 </a>
 
-
+<table>
+<div>
+  <a href="">
+    <img height=100% align="center" src="schale.png" style="border-radius: 30px;" />
+  </a>
+</div>
+</table>
